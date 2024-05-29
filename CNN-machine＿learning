@@ -6,8 +6,7 @@
    "id": "aa89bf50",
    "metadata": {},
    "outputs": [],
-   "source": [
-    "#期末報告資料\n",
+   "source": 
     "from tensorflow.keras.datasets import cifar10\n",
     "from tensorflow.keras.models import Sequential            #序列,結構(自動全連接)\n",
     "from keras.layers import Dense, Dropout, Flatten, Conv2D, MaxPool2D\n",
